@@ -1,0 +1,31 @@
+{
+    "Phone": [
+        "Phone (2)",
+        "Phone (2a)",
+        "Phone (2a) Plus"
+    ],
+    "Tablet": [
+        "Pad",
+        "Pad Go",
+        "Pad 2"
+    ],
+    "Audio": [
+        "Ear (open)",
+        "NEW",
+        "Ear",
+        "Ear (a)"
+    ],
+    "Wearables": [
+        "Watch 2",
+        "Watch 2R"
+    ],
+    "Accessories": [
+        "Phone (2) Case",
+        "Phone (2) Screen Protector",
+        "Phone (2a) / Plus Case",
+        "Phone (2a) / Plus Screen Protector",
+        "Power (45 W)",
+        "Cable (c-c) 100 cm",
+        "Cable (c-c) 180 cm"
+    ]
+}
